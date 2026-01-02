@@ -4,13 +4,19 @@ title: Home
 ---
 
 # Your Name
-A short bio.
+One-line pitch.
 
-## Projects
-- [Project 1](https://github.com/yourusername/project1)
-- [Project 2](https://github.com/yourusername/project2)
+## Highlights
+- Core skill 1
+- Core skill 2
+- Core skill 3
+
+## Best Projects
+- **Project Name**: one-line outcome. [Repo](https://github.com/you/repo) | [Live](https://example.com)
+- **Project Name**: one-line outcome. [Repo](https://github.com/you/repo)
 
 ## Contact
-- email@example.com
-- https://www.linkedin.com/in/...
+- Email: you@email.com
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourhandle
 

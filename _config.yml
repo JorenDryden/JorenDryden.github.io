@@ -6,3 +6,6 @@ header_pages:
   - projects.md
   - resume.md
 
+markdown: kramdown
+plugins:
+	-jekyll-feed
