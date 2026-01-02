@@ -4,19 +4,18 @@ title: Home
 ---
 
 # Your Name
-One-line pitch.
+I am Joren Dryden. I am a computer science and philosophy student at the University of Saskatchewan. My interests include: game development, software engineering, existentialism/nihilism, philosophy of mind, and philosophy of religion. 
 
-## Highlights
-- Core skill 1
-- Core skill 2
-- Core skill 3
-
-## Best Projects
-- **Project Name**: one-line outcome. [Repo](https://github.com/you/repo) | [Live](https://example.com)
-- **Project Name**: one-line outcome. [Repo](https://github.com/you/repo)
+## Projects
+- [TurtleShell](https://github.com/yourusername/project1)
+- [Harvest306] (https://github.com/jorendryden/harvest306)
+- [Procedural Generation and A* Pathing Demo](https://github.com/yourusername/project2)
+- [Discord Music Bot] (https://github.com/jorendryden/nerobot)
+- [VDL - mp3/mp4 Downloader] (https://github.com/jorendryden/vdl)
 
 ## Contact
-- Email: you@email.com
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourhandle
+- email@example.com
+- https://www.linkedin.com/in/jorendryden
+- https://github.com/jorendryden
+
 
