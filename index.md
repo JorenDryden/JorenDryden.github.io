@@ -1,8 +1,9 @@
 ---
 layout: home
+Title: I am Joren Dryden
 ---
 
-I am a computer science and philosophy student at the University of Saskatchewan. My interests include: game development, software engineering, existentialism/nihilism, morality, philosophy of mind, and philosophy of religion. 
+I am a dual-degree student at the University of Saskatchewan in Saskatoon, Saskatchewan, Canada. I am pursuing a B.Sc in computer science and a B.A in philosophy. My interests mainly include: game development, software engineering, existentialism/nihilism, and philosophy of mind. In my spare time I enjoy music production in FLStudio, making games in Godot, playing video games, and exploring Saskatoon.
 
 ## Projects
 - [TurtleShell](https://github.com/yourusername/project1)
