@@ -4,7 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
-- Education
-- Experience
-- Skills
-
+<iframe
+  src="Resume.pdf"
+  width="100%"
+  height="800"
+  style="border:none;">
+</iframe>
