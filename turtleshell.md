@@ -14,11 +14,15 @@ permalink: /turtleshell/
       alt="TurtleShell main interface"
       loading="lazy"
     >
+    <img
+      src="{{ '/ts2.png' | relative_url }}"
+      alt="TurtleShell importing interface"
+      loading="lazy"
+    >
   </div>
 
   <div class="project__content">
     <header class="project__header">
-      <h2 class="project__title">TurtleShell</h2>
       <p class="project__meta"><strong>Role:</strong> Project Lead</p>
     </header>
 
