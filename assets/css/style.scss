@@ -1,6 +1,9 @@
 ---
 ---
 .project-card {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
   display: grid;
   grid-template-columns: minmax(300px, 440px) 1fr;
   gap: 2rem;
