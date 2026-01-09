@@ -52,7 +52,7 @@ permalink: /portfolio/
   <p>Harvest306 is a Godot project developed for CMPT 306 that implements procedural content generation and core resource management mechanics. The game focuses on algorithmically creating dynamic environments and simulating harvesting systems, allowing entities to interact with and gather resources within generated terrain. Procedural generation techniques produce varied play spaces, while game logic handles movement, collection, and basic environmental responses. The repository demonstrates practical use of Godot’s scene system, GDScript, and generation algorithms to build a modular, scalable prototype that highlights both procedural techniques and resource-driven gameplay.</p>
   "
   links='
-    <a href="https://github.com/JorenDryden/harvest306">Repository</a>
+    <a href="https://github.com/JorenDryden/harvest306">Repository</a> | 
     <a href="https://jorend.itch.io/cmpt306-phase-2">Itch.io</a>
     '
 %}
