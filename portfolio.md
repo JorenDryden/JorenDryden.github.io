@@ -53,6 +53,7 @@ permalink: /portfolio/
   "
   links='
     <a href="https://github.com/JorenDryden/harvest306">Repository</a>
-  '
+    <a href="https://jorend.itch.io/cmpt306-phase-2">Itch.io</a>
+    '
 %}
 
