@@ -27,6 +27,9 @@ permalink: /portfolio/
   description="
   <p>Nerobot is a Discord music bot written in Python that connects to voice channels and plays music on command. It supports playlist generation and basic playback controls, designed for ease of setup and use in small to medium Discord communities. The bot is modular and script-driven, allowing for custom extension of commands and features. Python’s standard libraries and Discord APIs are used to manage connections, track queues, and respond to user interaction. Nerobot provides a lightweight, self-hostable solution for adding music playback to a Discord server.</p>
   "
+  links='
+    <a href="https://github.com/JorenDryden/nerobot">Repository</a>
+  '
 %}
 
 {% include project-card.html
