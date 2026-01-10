@@ -11,6 +11,18 @@ permalink: /music/
 </div>
 
 <div class="soundcloud-embed">
+  <iframe
+    width="100%"
+    height="166"
+    scrolling="no"
+    frameborder="no"
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fnerojxd%2Fforget-this-number&auto_play=false">
+  </iframe>
+</div>
+
+
+<div class="soundcloud-embed">
   <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
     src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fnerojxd%2Fthe-pill&auto_play=false">
   </iframe>
